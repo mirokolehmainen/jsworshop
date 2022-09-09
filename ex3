@@ -1,0 +1,6 @@
+ if (Navigator.appCodeName= "Mozilla"){
+                location.href="https://www.mozilla.org/fi/"
+            }
+             else {
+                location.href="https://www.is.fi/"
+             }
